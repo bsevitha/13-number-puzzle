@@ -1,9 +1,4 @@
-/**
- * 15-puzzle.js
- *
- * Copyright (c) 2015 Arnis Ritins
- * Released under the MIT license
- */
+
 (function(){
 	
 	var state = 1;
